@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@theme{
+    --color-primary : #4F46E5;
+    --color-secondary : #9333EA;
+    --color-chatBg : #F3F4F6;
+}
